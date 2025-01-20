@@ -20,6 +20,9 @@ Este proyecto se enfoca en analizar datos relacionados con el servicio de taxis 
   - `project_sql_result_01.csv`: Datos de viajes por empresas de taxis (15-16 noviembre 2017).
   - `project_sql_result_04.csv`: Promedio de viajes finalizados en barrios (noviembre 2017).
   - `project_sql_result_07.csv`: Datos de duración de viajes y clima.
+- **Uso de SQL:**
+  - Se utilizaron consultas SQL para recopilar los datos desde una base de datos.
+  - Las tablas fueron unidas y transformadas para crear los archivos utilizados en el análisis.
 - Limpieza de datos y verificación de duplicados.
 - Identificación de valores atípicos.
 
@@ -43,6 +46,8 @@ Este proyecto se enfoca en analizar datos relacionados con el servicio de taxis 
   - pandas
   - matplotlib
   - scipy
+- **SQL**
+  - Consultas para unión de tablas y extracción de datos.
 - **Jupyter Notebook**
 
 ---
